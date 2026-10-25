@@ -1,0 +1,10 @@
+# HealthTrack 
+
+A simple health tracker with a symptom checker and a stroke risk screener.
+Inspired by SIH1325, AI Assisted Tele-medicine Kiosk for Rural India.
+
+- Live app: https://eunicemercy123.github.io/HealthTrack/
+- Notebook: HealthTrack.ipynb (open in Google Colab)
+- Data: Kaggle "Disease Symptom Prediction" and "Stroke Prediction Dataset"
+
+This is a screening and tracking tool, not a medical diagnosis.
